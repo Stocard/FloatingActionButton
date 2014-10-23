@@ -25,5 +25,5 @@ android {
 }
 
 dependencies {
-    compile project(':library_projects:NineOldAndroids:NineOldAndroids')
+    compile 'com.nineoldandroids:library:2.4.0'
 }
